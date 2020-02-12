@@ -1,0 +1,6 @@
+c:\users\kamogelo.ramokgadi\documents\visual studio 2015\Projects\MyFileWriter\MyFileWriter\bin\Debug\MyFileWriter.exe.config
+c:\users\kamogelo.ramokgadi\documents\visual studio 2015\Projects\MyFileWriter\MyFileWriter\bin\Debug\MyFileWriter.exe
+c:\users\kamogelo.ramokgadi\documents\visual studio 2015\Projects\MyFileWriter\MyFileWriter\bin\Debug\MyFileWriter.pdb
+c:\users\kamogelo.ramokgadi\documents\visual studio 2015\Projects\MyFileWriter\MyFileWriter\obj\Debug\MyFileWriter.csprojResolveAssemblyReference.cache
+c:\users\kamogelo.ramokgadi\documents\visual studio 2015\Projects\MyFileWriter\MyFileWriter\obj\Debug\MyFileWriter.exe
+c:\users\kamogelo.ramokgadi\documents\visual studio 2015\Projects\MyFileWriter\MyFileWriter\obj\Debug\MyFileWriter.pdb
